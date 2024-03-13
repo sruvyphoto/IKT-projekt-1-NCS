@@ -1,1 +1,1 @@
-# IKT-projekt-1-NCS
+Ez a saját sajtból van a holdam

@@ -1,1 +1,3 @@
-Ez a saját sajtból van a holdam
+# IKTprojektNCS
+### <b>cd</b> parancs
+### cit clone "repo neve"

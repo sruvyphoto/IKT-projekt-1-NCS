@@ -1,3 +1,3 @@
 # IKTprojektNCS
 ### <b>cd</b> parancs
-### cit clone "repo nevehehe"
+### cit clone "repo neve"
